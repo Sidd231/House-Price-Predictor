@@ -17,6 +17,10 @@ Built using **Python** and **scikit-learn** as part of my journey into open sour
 
 ---
 
+## 📦 Dataset
+The dataset is not included in this repo due to file size.
+Download it from: [House Price Predictor Dataset](https://www.kaggle.com/datasets/sarveshdhond/house-price-predictor-dataset)
+
 ## 📁 Dataset Features
 
 The dataset includes a rich set of features:
