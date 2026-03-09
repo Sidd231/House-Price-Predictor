@@ -88,6 +88,6 @@ pip install scikit-learn pandas numpy matplotlib
 
 ## 👤 Author
 
-**[Your Name]**  
+**Siddharth Verma**  
 Aspiring ML Engineer | Python Developer  
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername)
+[GitHub](https://github.com/Sidd231) 
